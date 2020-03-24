@@ -15,7 +15,7 @@
 </head>
 
 <body>
-<header>Meine erste HTML5-Homepage</header>
+<header>Albfalter -- Homepage</header>
 
 <div id="hilfscontainer">
 
@@ -23,10 +23,7 @@
 <nav>
 <ul>
 <li><a href="index.php">Startseite</a></li>
-<li><a href="rubrik1.php">Rubrik 1</a></li>
-<li><a href="rubrik2.php">Rubrik 2</a></li>
-<li><a href="rubrik3.php">Rubrik 3</a></li>
-<li><a href="rubrik4.php">Rubrik 4</a></li>
+<li><a href="1st Page.php">1st Page</a></li>
 <li><a href="impressum_und_kontakt.php">Impressum und Kontakt</a></li>
 </ul>
 </nav>
@@ -35,11 +32,11 @@
 <main>
 <article>    
 <h1>Impressum und Kontakt</h1>
-<figure><img src="dummy-600x370-Rope.jpg" width="600" height="370" alt="Dummy-Image">
-<figcaption>Hier steht eine Bildunterschrift</figcaption></figure>
+<figure><img src="IMG_20200315_133203.jpg" width="377" height="224" alt="Diesela">
+<figcaption>Diesela im Wald</figcaption></figure>
 <p><strong>Impressum</strong></p>
 <p>  <strong>Angaben gemäß § 5 TMG:</strong><br>
-  Hans Mustermann<br>
+  Matthias Utz<br>
   Musterstraße 1<br>
   Musterortsteil<br>
   99999 Musterstadt<br>
@@ -52,14 +49,14 @@
   Hans Mustermann, Musterstraße 1, 99999 Musterstadt<br>
   <br>
   <strong>Quellenangaben für die verwendeten Bilder und Grafiken:</strong><br>
-  <a href="http://dummy-image-generator.com/" target="_blank">dummy-image-generator.com</a></p>
+  Eigene</p>
 <p><strong>Quelle:</strong> <a href="http://www.e-recht24.de" target="_blank">www.e-recht24.de</a></p>
 </article>
 </main>
 
 </div>
 
-<footer>&copy; Max Mustermann</footer>
+<footer>&copy; Matthias Utz</footer>
 
 </body>
 </html>

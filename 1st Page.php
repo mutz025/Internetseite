@@ -2,11 +2,11 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<title>Albfalter</title>
-<meta name="description" content="Erste Gehversuche">
-<meta name="keywords" content="">
-<meta name="robots" content="">
-<meta name="author" content="Matthias Utz">
+<title>1st Page</title>
+<meta name="description" content="Dies ist eine Webseitenvorlage basierend auf HTML5">
+<meta name="keywords" content="Meine, erste, HTML5, Homepage">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Hans Mustermann, Musterstraße 1, 00000 Musterstadt">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" media="(max-width: 640px)" href="html5_stylesheet_mobile.css">
 <link rel="stylesheet" media="(min-width: 640px)" href="html5_stylesheet.css">
@@ -31,8 +31,8 @@
 
 <main>
 <article>    
-<h1>Zusammenfassung</h1>
-<figure><img src="IMG_20200315_133203.jpg" width="1133" height="671" alt="Diesela">
+<h1>Überschrift</h1>
+<figure><img src="IMG_20200315_133203.jpg" width="566" height="335" alt="Diesela">
 <figcaption>Diesela im Wald</figcaption></figure>
 <p>Ein bisschen Text</p>
 <p></p>
