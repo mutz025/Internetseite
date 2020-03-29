@@ -17,7 +17,7 @@ header {background-color:#B2B2B2;
 	text-align:center;}
 	
 #hilfscontainer {margin:0px auto;
-	 max-width:1024px;}
+	 max-width: auto;}
 
 aside {float:left;
 	text-align:center;
@@ -49,13 +49,13 @@ article {border: 1px solid grey;
 
 footer {background-color:#CACACA;
 	clear:left;
-	color:#EEEEEE;
-	font-size:large;
+	color:rgb(0, 0, 0);
+	font-size:small;
 	font-style:italic;
 	font-weight:bolder;
 	padding-bottom:10px;
 	padding-top:10px;
-	text-align:center;
+	text-align:right;
 	width: 100%;}
 
 img {max-width:100%; height:auto; }
@@ -68,12 +68,12 @@ ul {margin:0;
 }
 
 ul li a {text-decoration:none;
-    color:#EEEEEE; 
+    color:rgb(117, 117, 117); 
     padding:10.5px 11px;
 	margin-bottom:10px;
     background-color:#CACACA;
     display:block;
-	border: radius 1;px;
+	border: radius 1px;
 }
 
 ul li a:visited {color:#EEEEEE;}

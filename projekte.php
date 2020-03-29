@@ -2,11 +2,11 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<title>1st Page</title>
-<meta name="description" content="Dies ist eine Webseitenvorlage basierend auf HTML5">
-<meta name="keywords" content="Meine, erste, HTML5, Homepage">
-<meta name="robots" content="index, follow">
-<meta name="author" content="Hans Mustermann, Musterstraße 1, 00000 Musterstadt">
+<title>Projete</title>
+<meta name="description" content="Matthias' Projekte">
+<meta name="keywords" content="Matthias Utz">
+<meta name="robots" content="Matthias Utz">
+<meta name="author" content="Matthias Utz">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" media="(max-width: 640px)" href="html5_stylesheet_mobile.css">
 <link rel="stylesheet" media="(min-width: 640px)" href="html5_stylesheet.css">
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-<header>Albfalter -- Homepage</header>
+<header>Matthias' Projekte</header>
 
 <div id="hilfscontainer">
 
@@ -23,7 +23,7 @@
 <nav>
 <ul>
 <li><a href="index.php">Startseite</a></li>
-<li><a href="1st Page.php">1st Page</a></li>
+<li><a href="projekte.php">Projekte</a></li>
 <li><a href="impressum_und_kontakt.php">Impressum und Kontakt</a></li>
 </ul>
 </nav>

@@ -2,10 +2,10 @@
 <html lang="de">
 <head>
 <meta charset="utf-8">
-<title>Albfalter</title>
-<meta name="description" content="Erste Gehversuche">
-<meta name="keywords" content="">
-<meta name="robots" content="">
+<title>Startseite</title>
+<meta name="description" content="Matthias' Projekte">
+<meta name="keywords" content="Matthias Utz">
+<meta name="robots" content="Matthias Utz">
 <meta name="author" content="Matthias Utz">
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" media="(max-width: 640px)" href="html5_stylesheet_mobile.css">
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-<header>Albfalter -- Homepage</header>
+<header>Matthias' Projekte</header>
 
 <div id="hilfscontainer">
 
